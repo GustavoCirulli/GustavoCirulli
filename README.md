@@ -7,5 +7,7 @@ Atualmente em busca de algum Estagio/Emprego nesta area
 
 CONHEÇA UM POUCO MAIS SOBRE MIM !
 
-Linkdin: https://www.linkedin.com/in/gustavo-cirulli
+Linkdin: https://www.linkedin.com/in/gustavo-cirulli-999533248/
+
+
 GitHub: https://github.com/GustavoCirulli
